@@ -1,0 +1,65 @@
+
+  .heading{
+      background-color: orangered;
+      padding:20px;
+      color:white;
+  }
+  
+  
+  
+  p {
+    color: #337AB7;
+  }
+  
+  input {
+    padding: 6px;
+    margin-bottom: 15px;
+    width: 400px;
+    border: none;
+    border-bottom: 1px solid rgb(218, 72, 5);
+    color: black;
+
+  
+  }
+  
+  button {
+    width: 150px;
+    height: 50px;
+    background: orangered;
+  
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    color: #fbfbfb;
+    font-size: 15px;
+    text-align: center;
+    cursor: pointer;
+  
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+
+.buttons{
+  margin-top: 20px;
+}
+  
+  #register {
+  
+      margin-left: 2%;
+  }
+  
+  .reset {
+      margin-top:-7%;
+      margin-left: 20%;
+  
+  }
+  .container
+  {
+   margin-left: 40%;
+  }
+  
+  
+  .footer {
+    margin-top: 20%;
+  }
